@@ -2,6 +2,8 @@
 
 ![Vista Escritorio](/escritorio.png)
 
+## Clic para ver la [PÁGINA](https://guadamongebarale.github.io/clonGoogle/)
+
 Este proyecto fue realizado siguiendo los pasos del curso "Practico de HTML y CSS" de Platzi
 
 Adicional:
