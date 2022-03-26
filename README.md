@@ -6,7 +6,7 @@
 
 Este proyecto fue realizado siguiendo los pasos del curso "Practico de HTML y CSS" de Platzi
 
-Adicional:
+**Adicional**:
 
 Maquetado Mobile-First
 
