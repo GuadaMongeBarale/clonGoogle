@@ -11,8 +11,8 @@ function mesagge() {
     alert ('Este no lo programe. Haz click en el otro botón');
 }
 
-document.querySelector('#search').addEventListener('keypress', function (e) {
+searchedTerm.addEventListener('keypress', function (e) {
     if (e.key === 'Enter') {
-        window.location.href = url1+searchedTerm.value+url2;
+        search();
     }
 });
