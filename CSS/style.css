@@ -8,6 +8,11 @@ body {
     font-family: arial, sans-serif;
     height: 100vh;
     width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    min-height: 500px;
 }
 a {
     text-decoration: none;
@@ -90,7 +95,7 @@ main .main-input input {
     height: 3rem;
     border:none;
     outline: none;
-    font-size: 1rem;
+    font-size: 1.3rem;
 }
 
 main .main-input .search-icon,
@@ -112,15 +117,12 @@ main .main-buttons {
     width: 20rem;
     margin: 0 auto;    
 }
-main .main-buttons div{
-    display: inline-block;
-    margin: 1rem;
-}
+
 main .main-buttons button{
     height: 2.5rem;
     background-color: #f2f2f2;
     border:0;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color:#5f6368;
     border-radius: 0.5rem;
     padding: 0 1.5rem;
@@ -131,9 +133,7 @@ main .main-buttons button{
 footer {
     width: 100%;
     height: 20vh;
-    position: absolute;
-    bottom: 0;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     background-color: #f2f2f2;
     border-top: 1px solid #e4e4e4;
     display: flex;

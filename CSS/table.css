@@ -1,5 +1,5 @@
 body {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 nav .nav-right-section .menu-icon,
 nav .nav-right-section .menu-img {
@@ -21,7 +21,7 @@ main .main-input {
 main .main-input input {
     width: 25rem;
     height: 3.5rem;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
 }
 
 main .main-input .search-icon,
@@ -34,5 +34,6 @@ main .main-buttons {
 }
 main .main-buttons button{
     height: 2.8rem;
-    font-size: 1.3rem;
+    font-size: 1.8rem;
 }
+
