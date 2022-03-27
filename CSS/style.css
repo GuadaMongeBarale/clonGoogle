@@ -86,7 +86,7 @@ main .main-input-container {
 main .main-input {
     width: 30rem;
     margin: 0 auto;
-    margin-bottom: 3.5rem;
+    margin-bottom: 2rem;
     
 }
 
@@ -115,8 +115,14 @@ main .main-input .micro-icon {
 
 main .main-buttons {
     width: 20rem;
-    margin: 0 auto;    
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;    
 }
+main .main-buttons div{
+    margin:1rem;
+}
+
 
 main .main-buttons button{
     height: 2.5rem;
@@ -126,6 +132,7 @@ main .main-buttons button{
     color:#5f6368;
     border-radius: 0.5rem;
     padding: 0 1.5rem;
+    
 }
 
 
